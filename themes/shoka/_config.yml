@@ -125,7 +125,7 @@ sidebar:
   position: left
   # position: right
   # Replace the default avatar image and set the url here.
-  avatar: avatar.jpg
+  avatar: cat.jpg
 
 widgets:
   # if true, will show random posts
@@ -153,9 +153,8 @@ reward:
   # If true, reward will be displayed in every article by default.
   enable: true
   account:
-    wechatpay: /wechatpay.png
-    alipay: /alipay.png
-    paypal: /paypal.png
+    wechatpay: /wechatpay.jpg
+    alipay: /alipay.jpg
 
 # TagCloud settings for tags page.
 tagcloud:
